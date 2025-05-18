@@ -1,0 +1,1 @@
+node backend/scripts/createAdmin.js  (For creating admin)  email: 'admin@cafeconnect.com', password: 'admin123'
